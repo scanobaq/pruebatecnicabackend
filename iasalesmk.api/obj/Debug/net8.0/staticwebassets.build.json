@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Qh8TWeLRMnBC8SZsDnoeNVGKYBqMvpLVYv9YcbMW4no=",
+  "Source": "iasalesmk.api",
+  "BasePath": "_content/iasalesmk.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
